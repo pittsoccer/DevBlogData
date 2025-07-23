@@ -1,14 +1,14 @@
 {
   "posts": [
     {
-      "title": "Blog dom mutated 1",
+      "title": "Blog #1",
       "post": "Example of a new blog entry being added when the page loads #1",
-      "datePosted": "2025-06-28"
+      "datePosted": "2025-07-21"
     },
     {
-      "title": "Blog dom mutated 2",
+      "title": "Blog #2",
       "post": "Example of a new blog entry being added when the page loads #2",
-      "datePosted": "2025-06-28"
+      "datePosted": "2025-07-22"
     }
   ]
 }
