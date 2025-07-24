@@ -1,13 +1,13 @@
 {
   "posts": [
     {
-      "title": "Blog #1",
-      "post": "Example of a new blog entry being added when the page loads #1",
+      "title": "Blog Title #1",
+      "post": "Blog Description #1",
       "datePosted": "2025-07-21"
     },
     {
-      "title": "Blog #2",
-      "post": "Example of a new blog entry being added when the page loads #2",
+      "title": "Blog Title #2",
+      "post": "Blog Description #2",
       "datePosted": "2025-07-22"
     }
   ]
