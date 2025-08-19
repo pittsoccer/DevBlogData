@@ -1,8 +1,9 @@
 {
   "posts": [
     {
-      "title": "Learning more than 1 coding language",
-      "post": "As you work more with code and continue to do software engineering, you will continue to encounter more and more problems. These issues will require different solutions for you to solve. For example, Java has a heavy focus on the use of classes, and it's basically impossible to code without using classes. If you don't want to use classes, a different language might suit your needs more. Not only that, but one of the goals of a software engineer is to make programs run as fast as possible. So let's say that you decide to code in a language you're more familiar with, but the code executes super slowly. It may be worth translating your code to a different language to improve efficiency. In conclusion, you should definitely learn more than one coding language to help yourself in the long term!",
+      "title": "Should Companies Continue to Push AI with the Constant Backlash?",
+      "post": "The use of Artificial Intelligence is becoming more widespread day by day. Nowadays, you can't do anything without seeing something made from AI. As someone who is a consumer of media such as television and social media, every time I see AI, I can't help but feel upset about how the creator didn't put any work into their creation.  
+               Furthermore, Media made by AI is often given bad reviews, and companies that decide to use AI receive huge amounts of backlash. For example, Coca-Cola made a short Christmas commercial with AI in December 2024. The responses to it were anything but good, with many feeling upset and betrayed by a company that they used to respect. Do you think companies should continue to push the use of AI with the growing bad reputation it has?",
       "datePosted": "2025-01-12"
     },
     {
