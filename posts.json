@@ -1,14 +1,14 @@
 {
   "posts": [
     {
+      "title": "Resume Updated",
+      "post": "I just updated my resume to include recent job experience.",
+      "datePosted": "2025-08-18"
+    },
+    {
       "title": "Should Companies Continue to Push AI?",
       "post": "The use of Artificial Intelligence is becoming more widespread day by day. Nowadays, you can't do anything without seeing something made from AI. Media made by AI is often given bad reviews, and companies that decide to use AI receive huge amounts of backlash. For example, Coca-Cola made a short Christmas commercial with AI back in December 2024. The responses to it were anything but good, with many feeling upset and betrayed by a company that they used to respect. Do you think companies should continue to push the use of AI with the growing bad reputation it has?",
       "datePosted": "2025-01-12"
-    },
-    {
-      "title": "Resume Updated",
-      "post": "I just updated my resume to ",
-      "datePosted": "2025-08-18"
     }
   ]
 }
