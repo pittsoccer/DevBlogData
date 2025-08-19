@@ -1,14 +1,14 @@
 {
   "posts": [
     {
-      "title": "Blog Title #1",
-      "post": "Blog Description #1",
-      "datePosted": "2025-07-21"
+      "title": "Learning more than 1 coding language",
+      "post": "As you work more with code and continue to do software engineering, you will continue to encounter more and more problems. These issues will require different solutions for you to solve. For example, Java has a heavy focus on the use of classes, and it's basically impossible to code without using classes. If you don't want to use classes, a different language might suit your needs more. Not only that, but one of the goals of a software engineer is to make programs run as fast as possible. So let's say that you decide to code in a language you're more familiar with, but the code executes super slowly. It may be worth translating your code to a different language to improve efficiency. In conclusion, you should definitely learn more than one coding language to help yourself in the long term!",
+      "datePosted": "2025-01-12"
     },
     {
-      "title": "Blog Title #2",
-      "post": "Blog Description #2",
-      "datePosted": "2025-07-22"
+      "title": "Resume Updated",
+      "post": "I just updated my resume to ",
+      "datePosted": "2025-08-18"
     }
   ]
 }
